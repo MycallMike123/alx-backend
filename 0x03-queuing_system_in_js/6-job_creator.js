@@ -1,4 +1,4 @@
-// 6-job_creator.js
+// 6job_creator.js
 
 import { createQueue } from 'kue';
 
